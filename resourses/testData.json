@@ -1,0 +1,110 @@
+[
+    {
+        "category": "Sector",
+        "metrics": [
+            {
+                "name": "Accom.&Food",
+                "value": 147
+            },
+            {
+                "name": "Educ.&HH",
+                "value": 227
+            },
+            {
+                "name": "Manufacturing",
+                "value": 7
+            },
+            {
+                "name": "Other",
+                "value": 73
+            },
+            {
+                "name": "Real Est. & Con.",
+                "value": 402
+            },
+            {
+                "name": "Services",
+                "value": 20
+            },
+            {
+                "name": "Whols. & Retail",
+                "value": 36
+            }
+        ]
+    },
+    {
+        "category": "Region",
+        "metrics": [
+            {
+                "name": "CENTRAL TEAMS",
+                "value": 225
+            },
+            {
+                "name": "LONDON & SE",
+                "value": 135
+            },
+            {
+                "name": "MIDLANDS & WALES",
+                "value": 111
+            },
+            {
+                "name": "NORTH",
+                "value": 151
+            },
+            {
+                "name": "OTHER",
+                "value": 232
+            },
+            {
+                "name": "SCOTLAND, NI & NE ENGLAND",
+                "value": 28
+            },
+            {
+                "name": "THAMES VALLEY & SW",
+                "value": 31
+            }
+        ]
+    },
+    {
+        "category": "Rating",
+        "metrics": [
+            {
+                "name": "1 to 3",
+                "value": 600
+            },
+            {
+                "name": "4 to 6",
+                "value": 166
+            },
+            {
+                "name": "7 to 9",
+                "value": 0
+            },
+            {
+                "name": "Unrated",
+                "value": 148
+            }
+        ]
+    },
+    {
+        "category": "Performance",
+        "metrics": [
+            {
+                "name": "FEVE Monitor",
+                "value": 0
+            },
+            {
+                "name": "FEVE Seriour",
+                "value": 0
+            },
+            {
+                "name": "NPL",
+                "value": 913
+            },
+            {
+                "name": "UTD",
+                "value": 0
+            }
+        ]
+    }
+]

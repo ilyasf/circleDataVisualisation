@@ -1,0 +1,21 @@
+{
+  "env"     : {
+    "browser" : true
+  },
+  "globals" : {
+    "__DEV__"      : false,
+    "__PROD__"     : false,
+    "__DEBUG__"    : false,
+    "__DEBUG_NEW_WINDOW__" : false,
+    "__BASENAME__" : false,
+    "React": true,
+    "ReactDOM": true
+  },
+  "rules": {
+    "semi" : [0, "never"],
+    "no-unused-vars": [2, {"vars": "local", "args": "after-used"}],
+    "indent": [2, 4, {"VariableDeclarator": 4, "SwitchCase": 1}],
+    "operator-linebreak": ["error", "after"],
+    "no-multi-spaces": [2, { "exceptions": { "ImportDeclaration": true } }]
+  }
+}

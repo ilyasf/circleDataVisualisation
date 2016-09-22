@@ -1,0 +1,20 @@
+{
+  "name":"circleDataShowerWidget",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --content-base src"
+  },
+  "version":"1.0.0",
+  "dependencies":{},
+  "devDependencies":{
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "browser-sync": "^2.14.0",
+    "css-loader": "^0.24.0",
+    "file-loader": "^0.9.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  },
+  "description": "Main test app to present data with circle data shower widget",
+  "license": "ISC"
+}
