@@ -7,10 +7,26 @@
 
 3 Build generates by webpack
 
- Scripts: 
+ Scripts:
   - start
   - build (will be added as soon as possible)
-  
-  
+
+Usage
+ - clone repository
+ - install npm
+ - move into repository folder
+ - tap npm install
+ - tap npm start
+ - open url http://localhost:8080/ in your browser (prefer Chrome or Firefox)
+
+Contacts
+ - it was written only learning opportunities
+
+The next time will be added
+ - Loading data via ajax
+ - Build script
+
+
+
  License - ISC.
  Copyright Ilias Fasikhov 22.09.2016
