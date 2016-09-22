@@ -1,7 +1,7 @@
 # circleDataVisualisation
 
 1 This is circle data visualisation that can show data in circle chart.
-![alt tag](https://yadi.sk/i/9BNVdzGBvXRWw)
+![alt tag](http://res.cloudinary.com/house-rent/image/upload/v1474535169/circleVIew_ffmkoj.jpg)
 
 2 Developed by npm
 
