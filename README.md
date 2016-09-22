@@ -20,7 +20,8 @@ Usage
  - open url http://localhost:8080/ in your browser (prefer Chrome or Firefox)
 
 Contacts
- - it was written only learning opportunities
+ - email: ilyasf@yandex.ru
+
 
 The next time will be added
  - Loading data via ajax
