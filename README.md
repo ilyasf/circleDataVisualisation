@@ -3,33 +3,29 @@
 Circle data visualisation widget.
 ![alt tag](http://res.cloudinary.com/house-rent/image/upload/v1474535169/circleVIew_ffmkoj.jpg)
 
-Developed by npm
+## How to run
 
-Build generates by webpack
+* `git clone https://github.com/ilyasf/circleDataVisualisation.git`
+* `cd circleDataVisualisation`
+* `npm install`
+* `npm start`
+* in your prefer browser open `http://localhost:8080`
 
-Icons for buttons from glyphicons_free pack
+## Build scripts
 
- Scripts:
-  - start
-  - build (will be added as soon as possible)
+* development - `npm run build`
+* production - `npm run build-pro`
 
-Usage
- - clone repository
- - install npm
- - move into repository folder
- - tap npm install
- - tap npm start
- - open url http://localhost:8080/ in your browser (prefer Chrome or Firefox)
+## Third-party resources
 
-Contacts
- - email: ilyasf@yandex.ru
+ 1 - Icons for buttons from [glyphicons free pack](http://glyphicons.com/)
 
+## Contacts information
 
-The next time will be added
- - Loading data via ajax
- - Build script
+* email: ilyasf@yandex.ru
+* skype: it-avenue.ifacihov
 
+  Issues can be added in [issue tracker](https://github.com/ilyasf/circleDataVisualisation/issues)
 
-
- License - ISC.
- Copyright Ilias Fasikhov 22.09.2016
+  License - MIT.
+  Copyright Ilias Fasikhov 22.09.2016
